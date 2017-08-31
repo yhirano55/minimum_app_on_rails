@@ -1,4 +1,8 @@
 # Minimum app on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Each application is just a experimental ones to understand Ruby on Rails.
+
+## Concept
+
+- Mini: an application with minimum configuration.
+- Nano: an application which consists of only config.ru file.
