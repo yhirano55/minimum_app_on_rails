@@ -82,3 +82,6 @@ end
 Rails.application.routes.draw do
   resources :users
 end
+
+require "rack"
+Rack::Server.start(app: Rails.application, Port: 3000)
